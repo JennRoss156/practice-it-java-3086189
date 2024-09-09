@@ -2,9 +2,7 @@ package _02_03b;
 
 public class Ticket {
 
-  public ticket() {
-
-  }
+  public ticket() {}
 
     private String destination;
     private double price;
